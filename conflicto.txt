@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Texto MAIN
+=======
+Texto RAMA
+>>>>>>> nueva-rama
